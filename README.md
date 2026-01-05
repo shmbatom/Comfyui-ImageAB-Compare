@@ -9,7 +9,7 @@ image split comparison horizontally/vertically, real-time mouse interaction to a
 
   ✅ Real-time interactive adjustment: Precise control of segmentation line position with mouse movement
 
-  ✅ Exportable segmentation image: This is an optional parameter, allowing for output preview or saving of the image. The segmentation ratio is set through "split_ratio_when_output" before_run
+  ✅ Exportable segmentation image: This is an optional parameter, allowing for output preview or saving of the image. The segmentation ratio is set through "split_ratio_when_output"
 ![before_run][def3]
 
 
@@ -31,7 +31,7 @@ Method 2: Installation via Manager
 
 ✅1. Basic usage
 
-   (1) In the ComfyUI editor, double-click to search for "abc", locate the "ImageABCompareSee" node, and click it to insert it into the ComfyUI editor, or drag the following image into the page after_run;
+   (1) In the ComfyUI editor, double-click to search for "abc", locate the "ImageABCompareSee" node, and click it to insert it into the ComfyUI editor, or drag the following image into the page;
    ![before_run][def2]
 
    (2) Connect the two images that need to be compared to the ImageA and ImageB input ports;
