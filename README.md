@@ -207,7 +207,7 @@ GitHub Issues（推荐）
 
 如果觉得本工具还不错，你可以捐赠我一杯咖啡。
 
-![捐赠图][def]
+![捐赠图](https://github.com/shmbatom/Comfyui-ImageAB-Compare/blob/main/images/donate.png)
 
  
 
